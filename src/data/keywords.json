@@ -1,0 +1,37 @@
+[
+  {
+    "keyword": "화상",
+    "color": "#f97316",
+    "description": "턴 종료 시, 효과 위력만큼 고정 피해를 받고 횟수 1 감소"
+  },
+  {
+    "keyword": "출혈",
+    "color": "#ef4444",
+    "description": "턴 종료 시, 효과 위력만큼 고정 피해를 받고 횟수 1 감소"
+  },
+  {
+    "keyword": "파열",
+    "color": "#a855f7",
+    "description": "HP가 절반 이하일 때 받는 피해 증가"
+  },
+  {
+    "keyword": "침잠",
+    "color": "#3b82f6",
+    "description": "턴 종료 시, 효과 위력만큼 고정 피해를 받고 횟수 1 감소"
+  },
+  {
+    "keyword": "진동",
+    "color": "#eab308",
+    "description": "턴 종료 시, 효과 위력만큼 고정 피해를 받고 횟수 1 감소"
+  },
+  {
+    "keyword": "방어 레벨 감소",
+    "color": "#38bdf8",
+    "description": "대상의 방어 레벨을 낮춰 받는 피해를 증가시킴"
+  },
+  {
+    "keyword": "분노",
+    "color": "#dc2626",
+    "description": "분노 공명 스킬 사용 시 추가 효과 발동"
+  }
+]
